@@ -23,5 +23,7 @@ str_re = re.split(r'(\s+)',str)
 
 6.螺旋矩阵单行输出
 
+7.list实现队列
+
 
 

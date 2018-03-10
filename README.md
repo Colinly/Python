@@ -25,5 +25,7 @@ str_re = re.split(r'(\s+)',str)
 
 7.list实现队列
 
+8.倒三角输出（>3 and <21）
+
 
 
