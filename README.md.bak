@@ -16,8 +16,4 @@ str_re = re.split(r'(\s+)',str)
 
 3.函数支持可变参数
 
-4.hanio
-
-5.螺旋矩阵
-
 
